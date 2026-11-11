@@ -3,9 +3,20 @@
     "id": 1,
     "categoria": "Documentos",
     "titulo": "Tirar o CPF pela primeira vez",
-    "palavras_chave": ["cpf", "tirar cpf", "tirar o cpf", "fazer cpf", "fazer o cpf", "inscricao no cpf", "primeiro cpf"],
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "tirar o cpf",
+      "fazer cpf",
+      "fazer o cpf",
+      "inscricao no cpf",
+      "primeiro cpf"
+    ],
     "resposta": "A inscrição no CPF é gratuita quando feita pela internet ou na Receita Federal. Em unidades conveniadas é cobrada uma taxa de R$ 7,00. Brasileiros e estrangeiros podem se inscrever.",
-    "documentos": ["Documento oficial com foto", "Certidão de nascimento ou de casamento, se o documento com foto não mostrar naturalidade, filiação e data de nascimento"],
+    "documentos": [
+      "Documento oficial com foto",
+      "Certidão de nascimento ou de casamento, se o documento com foto não mostrar naturalidade, filiação e data de nascimento"
+    ],
     "onde": "Pela internet (formulário da Receita Federal), em uma unidade da Receita Federal ou em uma unidade conveniada",
     "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
     "verificado_em": "2026-11-09"
@@ -14,9 +25,18 @@
     "id": 2,
     "categoria": "Documentos",
     "titulo": "Ter a Carteira de Trabalho Digital",
-    "palavras_chave": ["carteira de trabalho", "carteira de trabalho digital", "ctps", "primeiro emprego", "carteira profissional"],
+    "palavras_chave": [
+      "carteira de trabalho",
+      "carteira de trabalho digital",
+      "ctps",
+      "primeiro emprego",
+      "carteira profissional"
+    ],
     "resposta": "A Carteira de Trabalho agora é digital e gratuita. Basta baixar o aplicativo CTPS Digital ou usar a versão web e entrar com a sua conta gov.br. O atendimento é imediato.",
-    "documentos": ["Número do CPF", "Conta gov.br (nível bronze, prata ou ouro)"],
+    "documentos": [
+      "Número do CPF",
+      "Conta gov.br (nível bronze, prata ou ouro)"
+    ],
     "onde": "Aplicativo CTPS Digital (Android ou iOS) ou versão web no gov.br",
     "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
     "verificado_em": "2026-11-09"
@@ -25,9 +45,20 @@
     "id": 3,
     "categoria": "Assistência Social",
     "titulo": "Fazer a inscrição no Cadastro Único (CadÚnico)",
-    "palavras_chave": ["cadastro unico", "cadunico", "cad unico", "inscrever no cadunico", "fazer o cadunico", "cadastro do governo"],
+    "palavras_chave": [
+      "cadastro unico",
+      "cadunico",
+      "cad unico",
+      "inscrever no cadunico",
+      "fazer o cadunico",
+      "cadastro do governo"
+    ],
     "resposta": "O Cadastro Único é a porta de entrada para vários programas sociais. Podem se inscrever famílias com renda de até meio salário mínimo por pessoa. A inscrição é gratuita e feita presencialmente, com uma entrevista de cerca de 1 hora.",
-    "documentos": ["Documento com foto e CPF (ou Título de Eleitor) do responsável familiar", "Um documento de cada pessoa da família (CPF, certidão, RG ou carteira de trabalho)", "Comprovante de residência, se tiver"],
+    "documentos": [
+      "Documento com foto e CPF (ou Título de Eleitor) do responsável familiar",
+      "Um documento de cada pessoa da família (CPF, certidão, RG ou carteira de trabalho)",
+      "Comprovante de residência, se tiver"
+    ],
     "onde": "Posto de atendimento do Cadastro Único da sua cidade, normalmente o CRAS",
     "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
     "verificado_em": "2026-11-09"
@@ -36,9 +67,22 @@
     "id": 4,
     "categoria": "Assistência Social",
     "titulo": "Atualizar o Cadastro Único (CadÚnico)",
-    "palavras_chave": ["atualizar cadunico", "atualizar o cadunico", "atualizar o cadastro unico", "atualizacao do cadastro", "cadastro desatualizado", "renovar cadunico"],
+    "palavras_chave": [
+      "atualizar cadunico",
+      "atualizar o cadunico",
+      "atualizar o cadastro unico",
+      "atualizacao do cadastro",
+      "cadastro desatualizado",
+      "renovar cadunico",
+      "vencido",
+      "esta vencido",
+      "venceu"
+    ],
     "resposta": "O Cadastro Único precisa ser atualizado pelo menos a cada dois anos. Cadastro desatualizado pode impedir o acesso a benefícios como o BPC e a Tarifa Social de energia.",
-    "documentos": ["Documento com foto e CPF do responsável familiar", "CPF ou outro documento de cada pessoa da família"],
+    "documentos": [
+      "Documento com foto e CPF do responsável familiar",
+      "CPF ou outro documento de cada pessoa da família"
+    ],
     "onde": "Posto de atendimento do Cadastro Único (CRAS) ou aplicativo do Cadastro Único",
     "fonte": "https://www.gov.br/pt-br/servicos/inscrever-se-no-cadastro-unico-para-programas-sociais-do-governo-federal",
     "verificado_em": "2026-11-09"
@@ -47,9 +91,19 @@
     "id": 5,
     "categoria": "Assistência Social",
     "titulo": "Pedir o BPC para pessoa com deficiência",
-    "palavras_chave": ["bpc", "loas", "beneficio de prestacao continuada", "pessoa com deficiencia", "beneficio para deficiente"],
+    "palavras_chave": [
+      "bpc",
+      "loas",
+      "beneficio de prestacao continuada",
+      "pessoa com deficiencia",
+      "beneficio para deficiente"
+    ],
     "resposta": "O BPC paga um salário mínimo por mês para a pessoa com deficiência cuja família tenha renda de até 1/4 do salário mínimo por pessoa. Não é aposentadoria: não dá direito ao 13º nem deixa pensão. A família precisa estar no Cadastro Único, atualizado há menos de dois anos. A resposta sai, em média, em 45 dias.",
-    "documentos": ["Documento de identificação (RG, CIN, CNH ou carteira de trabalho) e CPF do titular", "Documento e CPF de todos que moram na mesma casa", "Cadastro Único atualizado"],
+    "documentos": [
+      "Documento de identificação (RG, CIN, CNH ou carteira de trabalho) e CPF do titular",
+      "Documento e CPF de todos que moram na mesma casa",
+      "Cadastro Único atualizado"
+    ],
     "onde": "Aplicativo ou site Meu INSS. Se não conseguir, ligue 135",
     "fonte": "https://www.gov.br/pt-br/servicos/solicitar-beneficio-assistencial-a-pessoa-com-deficiencia",
     "verificado_em": "2026-11-09"
@@ -58,9 +112,17 @@
     "id": 6,
     "categoria": "Assistência Social",
     "titulo": "Bolsa Família: o que fazer para continuar recebendo",
-    "palavras_chave": ["bolsa familia", "condicionalidades", "frequencia escolar", "perder o bolsa familia", "disque social"],
+    "palavras_chave": [
+      "bolsa familia",
+      "condicionalidades",
+      "frequencia escolar",
+      "perder o bolsa familia",
+      "disque social"
+    ],
     "resposta": "Para continuar no Bolsa Família, a família precisa cumprir compromissos de saúde e educação. Exemplos: acompanhar o peso e a altura das crianças menores de 7 anos e manter a frequência escolar mínima de 60% para crianças de 4 e 5 anos e de 75% para estudantes de 6 a 18 anos. Dúvidas podem ser tiradas no Disque Social 121.",
-    "documentos": ["Cadastro Único atualizado"],
+    "documentos": [
+      "Cadastro Único atualizado"
+    ],
     "onde": "CRAS da sua cidade ou Disque Social 121 (segunda a sexta, das 7h às 19h)",
     "fonte": "https://www.gov.br/mds/pt-br/acoes-e-programas/bolsa-familia",
     "verificado_em": "2026-11-09"
@@ -69,9 +131,18 @@
     "id": 7,
     "categoria": "Saúde",
     "titulo": "Fazer ou consultar o Cartão Nacional de Saúde (Cartão SUS)",
-    "palavras_chave": ["cartao sus", "cartao do sus", "sus", "cns", "cartao nacional de saude"],
+    "palavras_chave": [
+      "cartao sus",
+      "cartao do sus",
+      "sus",
+      "cns",
+      "cartao nacional de saude"
+    ],
     "resposta": "O Cartão SUS pode ser feito em uma UBS ou consultado no aplicativo Meu SUS Digital. O aplicativo também mostra as suas informações de saúde e as dos seus familiares.",
-    "documentos": ["Documento com foto", "CPF"],
+    "documentos": [
+      "Documento com foto",
+      "CPF"
+    ],
     "onde": "Qualquer UBS ou aplicativo Meu SUS Digital (web, Android ou iOS)",
     "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital",
     "verificado_em": "2026-11-09"
@@ -80,9 +151,23 @@
     "id": 8,
     "categoria": "Saúde",
     "titulo": "Pegar remédio de graça na Farmácia Popular",
-    "palavras_chave": ["farmacia popular", "remedio de graca", "remedio gratis", "remedio gratuito", "medicamento gratuito", "aqui tem farmacia popular"],
+    "palavras_chave": [
+      "farmacia popular",
+      "remedio de graca",
+      "remedio gratis",
+      "remedio gratuito",
+      "medicamento gratuito",
+      "aqui tem farmacia popular",
+      "remedio",
+      "remedio de pressao",
+      "pressao alta",
+      "diabetes"
+    ],
     "resposta": "A Farmácia Popular entrega de graça medicamentos para doenças como hipertensão, diabetes, asma e osteoporose. É só levar a receita e o documento a uma farmácia credenciada.",
-    "documentos": ["Documento oficial com foto e número do CPF", "Receita médica dentro da validade"],
+    "documentos": [
+      "Documento oficial com foto e número do CPF",
+      "Receita médica dentro da validade"
+    ],
     "onde": "Farmácias com o selo 'Aqui Tem Farmácia Popular', UBS ou farmácias municipais",
     "fonte": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular",
     "verificado_em": "2026-11-09"
@@ -91,9 +176,18 @@
     "id": 9,
     "categoria": "Saúde",
     "titulo": "Retirar fraldas geriátricas pela Farmácia Popular",
-    "palavras_chave": ["fralda", "fraldas", "fralda geriatrica", "fralda para idoso", "fralda adulto"],
+    "palavras_chave": [
+      "fralda",
+      "fraldas",
+      "fralda geriatrica",
+      "fralda para idoso",
+      "fralda adulto"
+    ],
     "resposta": "Pessoas com 60 anos ou mais e pessoas com deficiência podem retirar fraldas geriátricas de graça pela Farmácia Popular.",
-    "documentos": ["Documento oficial com foto e CPF", "Prescrição, laudo ou atestado médico (para pessoa com deficiência, com o CID)"],
+    "documentos": [
+      "Documento oficial com foto e CPF",
+      "Prescrição, laudo ou atestado médico (para pessoa com deficiência, com o CID)"
+    ],
     "onde": "Farmácias com o selo 'Aqui Tem Farmácia Popular'",
     "fonte": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular",
     "verificado_em": "2026-11-09"
@@ -102,9 +196,17 @@
     "id": 10,
     "categoria": "Saúde",
     "titulo": "Retirar absorventes de graça (Programa Dignidade Menstrual)",
-    "palavras_chave": ["absorvente", "absorventes", "dignidade menstrual", "absorvente de graca", "absorvente gratis"],
+    "palavras_chave": [
+      "absorvente",
+      "absorventes",
+      "dignidade menstrual",
+      "absorvente de graca",
+      "absorvente gratis"
+    ],
     "resposta": "Quem menstrua e cumpre pelo menos um requisito, como ter renda mensal de até R$ 208 ou estar no Bolsa Família, pode retirar absorventes de graça. Antes, é preciso emitir a autorização no Meu SUS Digital, que vale por 180 dias. Menores de 16 anos podem retirar sem a presença de um responsável.",
-    "documentos": ["Documento de Autorização do Programa Dignidade Menstrual (emitido no Meu SUS Digital)"],
+    "documentos": [
+      "Documento de Autorização do Programa Dignidade Menstrual (emitido no Meu SUS Digital)"
+    ],
     "onde": "Aplicativo Meu SUS Digital (área Dignidade Menstrual > Emitir Autorização) e depois uma farmácia 'Aqui Tem Farmácia Popular'",
     "fonte": "https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular",
     "verificado_em": "2026-11-09"
@@ -113,9 +215,18 @@
     "id": 11,
     "categoria": "Saúde",
     "titulo": "Tomar vacina no SUS",
-    "palavras_chave": ["vacina", "vacinas", "vacinacao", "tomar vacina", "cartao de vacina", "caderneta de vacinacao"],
+    "palavras_chave": [
+      "vacina",
+      "vacinas",
+      "vacinacao",
+      "tomar vacina",
+      "cartao de vacina",
+      "caderneta de vacinacao"
+    ],
     "resposta": "As vacinas do SUS são gratuitas e ficam nas salas de vacinação das UBS. Leve o cartão de vacinação, mas mesmo sem ele você pode se vacinar. Para pedir a segunda via do cartão, vá à UBS onde você se vacinou.",
-    "documentos": ["Cartão de vacinação (se tiver)"],
+    "documentos": [
+      "Cartão de vacinação (se tiver)"
+    ],
     "onde": "Sala de vacinação de qualquer UBS",
     "fonte": "https://www.gov.br/saude/pt-br/vacinacao",
     "verificado_em": "2026-11-09"
@@ -124,9 +235,19 @@
     "id": 12,
     "categoria": "Energia e Consumo",
     "titulo": "Tarifa Social: desconto na conta de luz",
-    "palavras_chave": ["tarifa social", "desconto na conta de luz", "conta de luz", "luz de graca", "desconto de energia", "conta de energia"],
+    "palavras_chave": [
+      "tarifa social",
+      "desconto na conta de luz",
+      "conta de luz",
+      "luz de graca",
+      "desconto de energia",
+      "conta de energia"
+    ],
     "resposta": "Têm direito à Tarifa Social as famílias no Cadastro Único com renda de até meio salário mínimo por pessoa e quem recebe o BPC. Desde julho de 2025, quem tem o benefício não paga o consumo de até 80 kWh por mês; o que passar disso é cobrado normalmente. O desconto é automático e não precisa ser pedido à distribuidora.",
-    "documentos": ["Cadastro Único atualizado nos últimos 2 anos", "Conta de luz no nome de alguém da família"],
+    "documentos": [
+      "Cadastro Único atualizado nos últimos 2 anos",
+      "Conta de luz no nome de alguém da família"
+    ],
     "onde": "É automático. Se o desconto não aparecer na conta, fale com a sua distribuidora de energia",
     "fonte": "https://www.gov.br/aneel/pt-br/assuntos/tarifas/tarifa-social",
     "verificado_em": "2026-11-09"
@@ -135,9 +256,27 @@
     "id": 13,
     "categoria": "Energia e Consumo",
     "titulo": "Reclamar da distribuidora de energia (falta de luz ou conta errada)",
-    "palavras_chave": ["falta de luz", "sem luz", "queda de energia", "reclamar da distribuidora", "reclamar da enel", "aneel", "conta errada", "veio errada", "conta de luz errada", "cobranca errada"],
+    "palavras_chave": [
+      "falta de luz",
+      "sem luz",
+      "queda de energia",
+      "reclamar da distribuidora",
+      "reclamar da enel",
+      "aneel",
+      "conta errada",
+      "veio errada",
+      "conta de luz errada",
+      "cobranca errada",
+      "luz caiu",
+      "energia caiu",
+      "energia acabou",
+      "enel nao resolve",
+      "reclamacoes sobre energia"
+    ],
     "resposta": "Primeiro, registre a reclamação na sua distribuidora de energia e anote o número do protocolo. Se o problema não for resolvido, você pode reclamar na ANEEL, pela opção 'Reclame da Distribuidora' ou pelo telefone 167.",
-    "documentos": ["Número do protocolo da reclamação feita na distribuidora"],
+    "documentos": [
+      "Número do protocolo da reclamação feita na distribuidora"
+    ],
     "onde": "Sua distribuidora de energia e, se não resolver, a ANEEL (telefone 167 ou site)",
     "fonte": "https://www.gov.br/aneel/pt-br/canais_atendimento",
     "verificado_em": "2026-11-09"
@@ -146,9 +285,21 @@
     "id": 14,
     "categoria": "Energia e Consumo",
     "titulo": "Reclamar de uma compra ou serviço no consumidor.gov.br",
-    "palavras_chave": ["compra", "produto com defeito", "reclamar de compra", "reclamar de uma empresa", "consumidor", "consumidor gov"],
+    "palavras_chave": [
+      "compra",
+      "produto com defeito",
+      "reclamar de compra",
+      "reclamar de uma empresa",
+      "consumidor",
+      "consumidor gov",
+      "comprei",
+      "defeito",
+      "veio com defeito"
+    ],
     "resposta": "Você pode registrar uma reclamação contra empresas no site consumidor.gov.br, que é público e gratuito. A empresa tem até 10 dias para responder e você tem até 20 dias para avaliar a resposta. Não dá para reclamar de forma anônima, e a empresa precisa estar cadastrada no site.",
-    "documentos": ["Conta gov.br nível prata ou ouro"],
+    "documentos": [
+      "Conta gov.br nível prata ou ouro"
+    ],
     "onde": "Site consumidor.gov.br (todo o processo é feito pela internet)",
     "fonte": "https://www.consumidor.gov.br/pages/conteudo/publico/1",
     "verificado_em": "2026-11-09"

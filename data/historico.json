@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "data": "2026-11-11 18:04:28",
+    "origem": "pergunta",
+    "pergunta": "Como faço para tirar meu CPF?",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 24.4,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-11 18:05:35",
+    "origem": "pergunta",
+    "pergunta": "Onde faço o Cadastro Único?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 66.3,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-11 18:05:44",
+    "origem": "pergunta",
+    "pergunta": "Meu cadastro do CadÚnico está vencido, o que faço?",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 7.7,
+    "facilidade": 5
+  },
+  {
+    "data": "2026-11-11 18:07:05",
+    "origem": "pergunta",
+    "pergunta": "Tenho direito a desconto na conta de luz?",
+    "id_orientacao": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 6.3,
+    "facilidade": 1
+  },
+  {
+    "data": "2026-11-11 18:09:16",
+    "origem": "pergunta",
+    "pergunta": "onde faco reclamacoes sobre energia",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 4,
+    "tempo_segundos": 131.7,
+    "facilidade": 1
+  },
+  {
+    "data": "2026-11-11 18:09:51",
+    "origem": "pergunta",
+    "pergunta": "Onde tomo a vacina da gripe?",
+    "id_orientacao": 11,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 2,
+    "tempo_segundos": 17.0,
+    "facilidade": 3
+  },
+  {
+    "data": "2026-11-11 18:09:59",
+    "origem": "pergunta",
+    "pergunta": "Como faço a carteira de trabalho digital?",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.6,
+    "facilidade": 3
+  },
+  {
+    "data": "2026-11-11 18:10:13",
+    "origem": "pergunta",
+    "pergunta": "Comprei um celular que veio com defeito, onde reclamo?",
+    "id_orientacao": null,
+    "encontrou": false,
+    "ajudou": false,
+    "tentativas": 1,
+    "tempo_segundos": 13.9,
+    "facilidade": 3
+  },
+  {
+    "data": "2026-11-11 18:14:37",
+    "origem": "pergunta",
+    "pergunta": "conta de luz",
+    "id_orientacao": 12,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 7,
+    "tempo_segundos": 89.9,
+    "facilidade": 1
+  },
+  {
+    "data": "2026-11-11 18:16:27",
+    "origem": "pergunta",
+    "pergunta": "onde vejo meu cpf",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 8.8,
+    "facilidade": null
+  }
+]

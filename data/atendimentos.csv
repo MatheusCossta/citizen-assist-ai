@@ -1,0 +1,11 @@
+﻿data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos,facilidade
+2026-11-11 18:04:28,pergunta,Como faço para tirar meu CPF?,1,True,True,1,24.4,5
+2026-11-11 18:05:35,pergunta,Onde faço o Cadastro Único?,3,True,True,1,66.3,5
+2026-11-11 18:05:44,pergunta,"Meu cadastro do CadÚnico está vencido, o que faço?",3,True,True,1,7.7,5
+2026-11-11 18:07:05,pergunta,Tenho direito a desconto na conta de luz?,12,True,True,1,6.3,1
+2026-11-11 18:09:16,pergunta,onde faco reclamacoes sobre energia,,False,False,4,131.7,1
+2026-11-11 18:09:51,pergunta,Onde tomo a vacina da gripe?,11,True,True,2,17.0,3
+2026-11-11 18:09:59,pergunta,Como faço a carteira de trabalho digital?,2,True,True,1,8.6,3
+2026-11-11 18:10:13,pergunta,"Comprei um celular que veio com defeito, onde reclamo?",,False,False,1,13.9,3
+2026-11-11 18:14:37,pergunta,conta de luz,12,True,True,7,89.9,1
+2026-11-11 18:16:27,pergunta,onde vejo meu cpf,1,True,True,1,8.8,
