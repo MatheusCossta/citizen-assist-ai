@@ -163,26 +163,40 @@ Todas as fontes foram conferidas pela equipe em 09/11/2026.
 
 ## Teste com usuários
 
-> **A preencher pela equipe após os testes.** Mínimo de 3 pessoas de fora da equipe e 10 atendimentos. Não registrar nomes nem dados dessas pessoas.
-
-**Como foi feito:** COMPLETAR (ex.: cada pessoa usou o assistente sozinha no computador, fazendo perguntas com as próprias palavras e usando a navegação por categorias).
-
-**Participantes:** COMPLETAR (ex.: Participante 1 – estudante; Participante 2 – adulto; Participante 3 – idoso).
+**Como foi feito:** o assistente foi testado com **3 pessoas de fora da equipe**, em sessões separadas. As pessoas enviaram as próprias dúvidas, que foram digitadas no assistente. Elas avaliaram se a resposta ajudou (s/n) e, ao final de cada sessão, deram uma nota de facilidade de 1 a 5. Não registramos nomes nem dados dos participantes, e o histórico guarda apenas as perguntas, sem informação pessoal.
 
 **Indicadores obtidos (opção 3 do menu):**
 
 | Indicador | Resultado |
 |---|---|
-| Total de atendimentos | COMPLETAR |
-| Resposta encontrada (%) | COMPLETAR |
-| Taxa de acerto: ajudou (%) | COMPLETAR |
-| Tempo médio para encontrar (s) | COMPLETAR |
-| Tentativas por atendimento | COMPLETAR |
-| Facilidade de uso (1 a 5) | COMPLETAR |
+| Total de atendimentos | 10 |
+| Resposta encontrada (%) | 80,0% |
+| Taxa de acerto: ajudou (%) | 80,0% |
+| Tempo médio para encontrar (s) | 28,6 s |
+| Tentativas por atendimento | 2,0 |
+| Facilidade de uso (1 a 5) | 3,0 |
 
-**Dúvidas sem solução:** COMPLETAR
+**Dúvidas sem solução:**
 
-**Melhoria feita a partir do teste:** COMPLETAR (ex.: palavra-chave nova incluída no JSON porque uma pergunta real não era encontrada).
+- "onde faco reclamacoes sobre energia" (última de 4 tentativas para reclamar da queda de energia; antes, a pessoa tinha escrito "Minha luz caiu e a Enel não resolve, onde reclamo?" e "Minha energia acabou onde reclamo")
+- "Comprei um celular que veio com defeito, onde reclamo?"
+
+Também observamos que "Como pego remédio de pressão de graça?" não foi encontrada. Ela não aparece na lista porque, no mesmo atendimento, a pessoa fez outra pergunta que foi respondida, e o atendimento é registrado com a última pergunta.
+
+**Análise:** as perguntas encontradas tiveram confiança média ou alta e foram consideradas úteis. As falhas aconteceram quando as pessoas usaram palavras do dia a dia que não estavam nas palavras-chave: "luz caiu", "energia acabou", "comprei" (em vez de "compra"), "defeito" e "remédio de pressão". A pessoa que mais teve perguntas sem resposta deu a menor nota de facilidade, o que puxou a média para 3,0.
+
+**Melhoria feita a partir do teste:** incluímos novas palavras-chave no JSON, sem alterar o código:
+
+| Orientação | Palavras-chave incluídas |
+|---|---|
+| 13 – Reclamar da distribuidora de energia | `luz caiu`, `energia caiu`, `energia acabou`, `enel nao resolve`, `reclamacoes sobre energia` |
+| 8 – Remédio de graça na Farmácia Popular | `remedio`, `remedio de pressao`, `pressao alta`, `diabetes` |
+| 14 – Reclamar de uma compra | `comprei`, `defeito`, `veio com defeito` |
+| 4 – Atualizar o Cadastro Único | `vencido`, `esta vencido`, `venceu` |
+
+A última melhoria corrige um erro de escolha: "Meu cadastro do CadÚnico está vencido, o que faço?" mostrava a orientação de **inscrição**, e o correto era a de **atualização**.
+
+Depois da melhoria, refizemos as mesmas perguntas do teste. Todas passaram a ser encontradas na orientação correta, com confiança média ou alta: por exemplo, "Minha luz caiu e a Enel não resolve, onde reclamo?" passou de "não encontrei" para 6 pontos, e "Comprei um celular que veio com defeito, onde reclamo?" para 9 pontos.
 
 ## Decisão técnica
 
