@@ -12,7 +12,7 @@
 
 ## Vídeo técnico
 
-COLE_AQUI_O_LINK_DO_VIDEO
+(https://youtu.be/n9KQTnFjSm8)
 
 ## Público e problema
 
